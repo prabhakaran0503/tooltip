@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+}
+/* .container{
+    width: 80%;
+    margin: auto;
+    
+} */
+/* .row{
+    padding-top: 10%;
+} */
+.card{
+    width: 30%;
+    
+    margin: auto;
+    
+    
+}
+.imgea img{
+    width: 100%;
+    border-radius: 10px;
+}
+.but button{
+    padding: 10px 30px;
+    margin-top: 20px;
+    margin-left: 30%;
+    background-color: rgb(73, 72, 72);
+    color: rgb(238, 237, 237);
+    border-radius: 10px;
+    border-color: rgb(253, 178, 178); 
+    border: 3px solid rgb(255, 193, 193);
+}
+ .but button :hover{color: blue; }
+
+/* 
+.content{
+    display: none;
+    position: relative;
+    border: 2px solid black;
+    padding: 20px; */
+    /* display: flex;
+    border: 2px solid black;
+    padding: 20px;  */
+/* } */
+/* i{
+    position:absolute;
+    bottom: 51%;
+    right: 486px;
+    
+}
+.para{
+    border: 2px solid black;
+    padding: 20px;
+} */
